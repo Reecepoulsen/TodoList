@@ -6,7 +6,7 @@ the completed tasks.
 I created this app to learn how to use Kotlin for android development. This really helped me to gain some experience 
 in the language and introduced a lot of new ideas.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/50Wo6zhUOgQ)
 
 # Development Environment
 - Android Studio
