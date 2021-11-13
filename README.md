@@ -17,5 +17,5 @@ in the language and introduced a lot of new ideas.
 
 # Future Work
 * Make it so switching the orientation doesn't wipe out the data
-* Changr up the styling to make it look nicer
+* Change up the styling to make it look nicer
 * Add the ability to add toto item into google calendar
